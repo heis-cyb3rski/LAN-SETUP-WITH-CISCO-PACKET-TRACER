@@ -21,9 +21,9 @@ Your job is to connect them, configure addressing, verify connectivity, and ensu
 ---
 
 ## 🖼 Network Topology
-![LAN Topology](topology.png)
+![LAN Topology](https://github.com/heis-cyb3rski/LAN-SETUP-WITH-CISCO-PACKET-TRACER/blob/177851762a7528c12dd9e80c90f161c4282533af/LAN%20Topology%20.png)
 
-> You can explore the full lab by downloading the Packet Tracer file: [LAN-Setup.pkt](LAN-Setup.pkt)
+> You can explore the full lab by downloading the Packet Tracer file: [LAN-Setup.pkt](https://github.com/heis-cyb3rski/LAN-SETUP-WITH-CISCO-PACKET-TRACER/blob/177851762a7528c12dd9e80c90f161c4282533af/Create%20a%20LAN%20GITHUB%20ACCESS.pka)
 
 ---
 
