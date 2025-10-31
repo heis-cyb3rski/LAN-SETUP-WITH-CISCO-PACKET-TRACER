@@ -187,7 +187,7 @@ Always plan the IP addressing scheme before deployment, ensure DHCP and DNS are 
 ---
 
 ## 👨‍💻 Author
-**Skie**  
+**heis-cyb3rski**  
 Networking Enthusiast | Cisco Learner | IT Support & Cybersecurity Focused  
 
 ---
